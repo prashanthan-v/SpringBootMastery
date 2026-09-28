@@ -11,6 +11,6 @@ public class Controller {
 
     @GetMapping
     public  String api_where_prefix_path_coming_from_webmvcconfiguree(){
-        return "api_where_prefix_path_coming_from_webmvcconfiguree";
+        return "api_where_prefix_path_coming_from_webmvcconfigureee";
     }
 }
